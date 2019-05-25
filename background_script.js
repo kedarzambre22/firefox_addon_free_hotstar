@@ -8,7 +8,7 @@ const CODE = `
 
     setInterval(function() {
         window.location.reload();
-    }, 60000);
+    }, 540000);
 `;
 
 function onExecuted(result) {
